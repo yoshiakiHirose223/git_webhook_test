@@ -1,1 +1,1 @@
-main dir1 file1
+conflict file for main side
